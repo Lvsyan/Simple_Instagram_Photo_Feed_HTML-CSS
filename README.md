@@ -1,3 +1,10 @@
+Explicación del ejercicio
+
+- Lo primero que he hecho ha sido crear el html y css y enlazarlo
+- Después me he dedicado a crear solamente una carta con html y css para dejarla lista
+- Una vez tuviera la carta como la queria hice copia de esa misma 3 veces con imagenes distintas
+
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
